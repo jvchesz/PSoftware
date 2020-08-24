@@ -12,7 +12,7 @@ Produto: Sistema de aluguel para bicicletas.
   A iniciativa consiste em um projeto real para viabilizar o aluguel e renovação de bicicletas por aplicativo.
 O cliente da ShadeCode que contratar a implementção do software de sistema poderá cadastrar seus próprios clientes em
 um banco de dados privado para que possam alugar e renovar via QRCode. Tendo em vista que em cidades do interior ou mais
-distantes das capitais não possuem o serviço de empresas como a Green ou a Yellow, quem alugam bicicletas e patinetes elétricos
+distantes das capitais não possuem o serviço de empresas como a Green ou a Yellow, que alugam bicicletas e patinetes elétricos
 através do mesmo princípio. O projeto é voltado para os pequenos negócios de cidades menores que ja alugam bicicletas para poderem ter
 um controle mais preciso de seus serviços.
 
