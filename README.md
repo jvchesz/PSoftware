@@ -23,7 +23,7 @@ um controle mais preciso de seus serviços.
 
   //Sobre o CEO/CIO/CTO:
       Estudante de Ciência da Computação na FCI/UPM, 19 anos e artista digital. Foco atual no estudo de desenvolvimento front-end e jogos digitais,
-     procura desenvolver soluções tecnológicas para pequenos negócios e produção de particular de arte e jogos indies.
+     procura desenvolver soluções tecnológicas para pequenos negócios e na produção particular de artes digitais e jogos indies.
      Conhecimentos:
      
      
