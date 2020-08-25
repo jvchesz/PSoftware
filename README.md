@@ -3,7 +3,7 @@ Tema 2
 
 # ShadeCode (empresa fictícia)
 
-CEO/CIO/CTO: José Vitor Cunha Barboza
+CEO: José Vitor Cunha Barboza
 
 Id. Mack.: 31898300
 
@@ -21,7 +21,7 @@ um controle mais preciso de seus serviços.
     
 
 
-  //Sobre o CEO/CIO/CTO:
+  //Sobre o CEO:
       Estudante de Ciência da Computação na FCI/UPM, 19 anos e artista digital. Foco atual no estudo de desenvolvimento front-end e jogos digitais,
      procura desenvolver soluções tecnológicas para pequenos negócios e na produção particular de artes digitais e jogos indies.
      Conhecimentos:
